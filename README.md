@@ -84,6 +84,7 @@ Knowledge base tools for AI agents, including RAG engines, knowledge graphs, vec
 - [Memory MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/memory) - MCP server for persistent memory and knowledge storage.
 - [Notion MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/notion) - MCP server for Notion knowledge base integration.
 - [GitHub MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - MCP server for GitHub knowledge and code access.
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha MCP server for encrypted, append-only knowledge with scoped, expiring grants.
 - [Slack MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) - MCP server for Slack knowledge retrieval.
 
 ## LLM Wiki Tools
