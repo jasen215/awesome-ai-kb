@@ -85,6 +85,7 @@ Knowledge base tools for AI agents, including RAG engines, knowledge graphs, vec
 - [Notion MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/notion) - MCP server for Notion knowledge base integration.
 - [GitHub MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - MCP server for GitHub knowledge and code access.
 - [Slack MCP](https://github.com/modelcontextprotocol/servers/tree/main/src/slack) - MCP server for Slack knowledge retrieval.
+- [Tale](https://github.com/tale-project/tale) - Self-hosted team knowledge retrieval and automation tools over authenticated HTTP MCP.
 
 ## LLM Wiki Tools
 
